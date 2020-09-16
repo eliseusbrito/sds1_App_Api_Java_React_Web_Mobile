@@ -3,24 +3,24 @@
     padding: 20px 40px;
     display: flex;
     background-color: var(--color-darkslategray);
-  }
-  
-  .logo-text {
+}
+
+.logo-text {
     font-weight: bold;
     font-size: 24px;
     margin-left: 15px;
-  }
-  
-  .logo-text-1 {
+}
+
+.logo-text-1 {
     color: var(--color-coral);
-  }
-  
-  .logo-text-2 {
+}
+
+.logo-text-2 {
     color: #FFF;
-  }
-  
-  @media (max-width: 850px) {
+}
+
+@media (max-width: 850px) {
     .main-header {
-      justify-content: center;
+        justify-content: center;
     }
-  }
+}
